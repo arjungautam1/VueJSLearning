@@ -5,3 +5,4 @@ var app = new Vue({
     }
 })
 app.seen = true
+//Works only if the seen is true 
